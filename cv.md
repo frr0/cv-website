@@ -6,9 +6,9 @@ header-includes: |
 
 ::: {.center}
 # Francesco Ranellucci
-[**Website**](https://frr0.github.io/) |
-[**Github**](https://github.com/frr0) | 
-[**Gitlab**](https://gitlab.com/fra07) | 
+[**frr0.github.io**](https://frr0.github.io/) |
+[**github.com/frr0**](https://github.com/frr0) | 
+[**gitlab.com/fra07**](https://gitlab.com/fra07) | 
 [**f.ranellucci@outlook.com**](mailto:f.ranellucci@outlook.com) 
 :::
 
