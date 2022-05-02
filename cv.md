@@ -54,11 +54,10 @@ Computer engineering student, passionate about technology, computer science and 
 \hrule
 
 &emsp;[**Dotfiles**](https://github.com/frr0/Dotfiles): A collection of my pc configuration files  
-&emsp;[**Neovim**](https://github.com/frr0/nvim): A configuration for nvim text editor  
-&emsp;[**Website**](https://github.com/frr0/cv_and_ws): This cv template and my website template   
+&emsp;[**Nvim**](https://github.com/frr0/nvim): A configuration for nvim text editor  
 &emsp;[**Telegram bot**](https://github.com/frr0/Fantacitorio-bot): A team manager for a game inspired by fantasy football    
 &emsp;[**Covid-19**](https://github.com/frr0/Covid19): A full collection of Italian Covid-19 data put in a 7000+ pages pdf using pandoc   
-&emsp;[**Basic-Terminal**](https://github.com/frr0/Basic-Terminal): An essential build for a good termianl environment 
+&emsp;[**Website**](https://github.com/frr0/cv_and_ws): This cv template and my website template   
 
 \vspace{4cm}
 
