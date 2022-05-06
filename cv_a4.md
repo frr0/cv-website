@@ -61,7 +61,7 @@ Computer engineering student, passionate about technology, computer science and 
 &emsp;[**Covid-19**](https://github.com/frr0/Covid19): A full collection of Italian Covid-19 data put in a 7000+ pages pdf using pandoc   
 &emsp;[**Website**](https://github.com/frr0/cv_and_ws): This cv template and my website template   
 
-\vspace{4cm}
+\vspace{5cm}
 
 ### GDPR Disclaimer
 \begin{minipage}{0.85\textwidth}
