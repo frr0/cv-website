@@ -70,6 +70,6 @@ Computer engineering student, passionate about technology, computer science and 
 \hfill
 \begin{minipage}{0.20\textwidth}
 \center
-\includegraphics[width=0.6\columnwidth]{ws}\\
+\includegraphics[width=0.5\columnwidth]{ws}\\
 Website
 \end{minipage}
