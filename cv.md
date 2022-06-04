@@ -19,7 +19,7 @@ Computer engineering student, passionate about technology, computer science and 
 ## Education
 \smallskip
 \hrule
-&emsp;[**Polythecnic University of Turin**](https://www.polito.it/index.php?lang=en), \hfill  Turin, Italy&emsp;    
+&emsp;[**Polytechnic University of Turin**](https://www.polito.it/index.php?lang=en), \hfill  Turin, Italy&emsp;    
 &emsp;*Bachelor of Engineering in Computer Engineering*, \hfill Ongoing&emsp;    
 
 &emsp;[**Liceo Scientifico Statale Galileo Ferraris**](https://www.liceogalfer.it/), \hfill Turin, Italy&emsp;    
@@ -41,7 +41,7 @@ Computer engineering student, passionate about technology, computer science and 
 &emsp;[**Giornata della Scienza**](https://gitlab.com/fra07/Giornata_della_Scienza_2017-2018-2019/-/tree/main/Giornata-della-scienza) \hfill 2017, 2018, 2019&emsp;  
 &emsp;*Turin science fair, (2017 Physics Team work, 2018 Math Team work, 2019 Electronics Team work)*
 
-&emsp;[**Clean air and healty homes symposium**](https://gitlab.com/fra07/Giornata_della_Scienza_2017-2018-2019/-/tree/main/2018%20Clean%20air%20and%20healty%20homes%20symposium) \hfill 2018&emsp;  
+&emsp;[**Clean air and healthy homes symposium**](https://gitlab.com/fra07/Giornata_della_Scienza_2017-2018-2019/-/tree/main/2018%20Clean%20air%20and%20healty%20homes%20symposium) \hfill 2018&emsp;  
 &emsp;*Big Sky High School, University of Montana, Montana Department of Environmental Quality*
 
 ## Skills
@@ -73,3 +73,4 @@ Computer engineering student, passionate about technology, computer science and 
 \includegraphics[width=0.5\columnwidth]{ws}\\
 Website
 \end{minipage}
+

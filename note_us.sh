@@ -8,7 +8,7 @@ f_pdf=$name.pdf
 pandoc -s -i \
     --lua-filter=center.lua \
     --pdf-engine=xelatex \
-    -V geometry:"top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm" \
+    -V geometry:"top=1.0cm, bottom=1.0cm, left=1.0cm, right=1.0cm" \
     -V colorlinks \
     --highlight-style zenburn \
     -V urlcolor=NavyBlue \
